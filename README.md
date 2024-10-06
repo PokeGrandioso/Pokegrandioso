@@ -4,5 +4,6 @@
 
 Meu nome é RIchard, e estou no Github para aprender a programar e compartilhar os meus projetos
 
--18y
--🇧🇷
+<div>
+  <link href:"https://www.instagram.com/pokegrandioso/profilecard/?igsh=Z24wdHlvaHIwZjdo>
+</div>
