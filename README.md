@@ -6,5 +6,5 @@ Meu nome é Richard, e estou no Github para aprender a programar e compartilhar 
 
 - 🇧🇷
 - 18y
-- 
-- 
+- Gostaria de aprender a falar Japonês e Inglês
+- Pokémon & Beastars fan
