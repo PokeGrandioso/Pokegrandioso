@@ -1,6 +1,6 @@
 ## Olá a todos!!
 
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+![]https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdjb3p0b284bW1qcTF5bGJpN244Y2Z4cDdoMGxrcXhqcWdpcmRodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp
 
 Meu nome é Richard, e estou no Github para aprender a programar e compartilhar os meus projetos.
 
