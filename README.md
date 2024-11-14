@@ -1,7 +1,5 @@
 ## Olá a todos!!
 
-![]https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdjb3p0b284bW1qcTF5bGJpN244Y2Z4cDdoMGxrcXhqcWdpcmRodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp
-
 Meu nome é Richard, e estou no Github para aprender a programar e compartilhar os meus projetos.
 
 - 🇧🇷
